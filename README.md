@@ -24,3 +24,6 @@ Get Help
 --------
 
 Checkout our community http://bbs.meizu.cn (in Chinese)
+
+
+Remember to clone into m576 or edit kernel dir in boardconfig.
